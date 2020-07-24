@@ -4111,6 +4111,10 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
+                               {       "user": "Gherkin",
+                                       "link": "https://youtu.be/B43T4uPNnzs",
+                                       "percent": 100,
+                                       "hz": "Mobile"
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
