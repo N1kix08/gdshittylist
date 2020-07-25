@@ -1588,7 +1588,7 @@ const d = {
 				},
 				{
 					"user": "piesy",
-					"link": "https://youtu.be/8VWDHVUaSs0",
+					"link": "https://youtu.be/8MZCWRAeCFg",
 					"percent": 100,
 					"hz": "240hz"
 				},
